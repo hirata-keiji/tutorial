@@ -3,3 +3,6 @@ I don't know how to setup the option properly.
 Garbled characters are printed on a screen.  
 Hmmm...
 how to fix it?
+
+where to push me?
+
